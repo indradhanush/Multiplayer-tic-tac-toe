@@ -1,6 +1,6 @@
 Multiplayer Tic-Tac-Toe - V1.0
 Written by : Indradhanush Gupta 
-Email	   : indradhanush[dot]gupta[at]gmail[dot][com]
+Email	     : indradhanush[dot]gupta[at]gmail[dot]com
 Blog       : http://indradhanushgupta.wordpress.com
 
 A Multiplayer Tic-Tac-Toe game written in C++ based on the client-server model using the basics of socket programming.
